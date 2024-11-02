@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on DiewahreKeule</title>
+    <link>http://Dominik-PC:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on DiewahreKeule</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 09:10:00 +0100</lastBuildDate>
+    <atom:link href="http://Dominik-PC:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Von Wordpress zu Hugo</title>
+      <link>http://Dominik-PC:1313/posts/tutorials/wordpress-to-hugo/</link>
+      <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/tutorials/wordpress-to-hugo/</guid>
+      <description>&lt;p&gt;Die Entscheidung, von WordPress zu Hugo zu wechseln, bringt eine Menge Flexibilität und Geschwindigkeit mit sich. Falls du deine bestehenden WordPress-Posts auf Hugo übertragen möchtest, hilft dir diese Schritt-für-Schritt-Anleitung dabei, die Migration möglichst einfach und reibungslos zu gestalten.&lt;/p&gt;
+&lt;h2 id=&#34;schritt-1-export-der-wordpress-posts&#34;&gt;Schritt 1: Export der WordPress-Posts&lt;/h2&gt;
+&lt;p&gt;Der einfachste Weg, WordPress-Posts für Hugo zu exportieren, ist das Plugin &lt;strong&gt;WordPress to Hugo Exporter&lt;/strong&gt;. Es wandelt die Posts und Seiten automatisch in Markdown-Dateien mit YAML-Frontmatter um, die Hugo-kompatibel sind.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: DiewahreKeule
+theme: ["PaperMod"]
+
+# Menu
+menu:
+  main:
+    - identifier: gaming
+      name: Gaming
+      url: /categories/gaming/
+      weight: 10
+    #- identifier: umstieg-linux-mint
+    #  name: Umstieg auf Linux Mint
+    #  url: /categories/Umstieg-Linux/
+    #  weight: 10      
+    - identifier: categories
+      name: Kategorien
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30    
+    - identifier: about-me
+      name: "Über mich"    
+      url: /about-me/
+      weight: 40
+    - identifier: datenschutz
+      name: "Datenschutz"
+      url: /datenschutz/
+
+# Parameter
+params:
+  homeInfoParams:
+    Title: 
+    # Content: Tech, Gaming, Tutorials und mehr!
+  ShowPostNavLinks: true
+  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowCodeCopyButtons: true
+
+  socialIcons: # optional
+    - name: "X"
+      url: "https://x.com/DiewahreKeule"
+    - name: "discord"
+      url: "<link2>"
+    - name: "instagram"
+      url: "https://www.instagram.com/diewahrekeule/"
+    - name: "mastodon"
+      url: "https://mastodon.gamedev.place/@DiewahreKeule"
+    - name: twitch
+      url: "https://www.twitch.tv/diewahrekeule"
+
+# Search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search

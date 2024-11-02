@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DiewahreKeule</title>
+    <link>http://Dominik-PC:1313/posts/</link>
+    <description>Recent content in Posts on DiewahreKeule</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 19:10:00 +0100</lastBuildDate>
+    <atom:link href="http://Dominik-PC:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steamdeck - Hybride Spielekonsole, PC und mehr</title>
+      <link>http://Dominik-PC:1313/posts/steamdeck/2024-10-30-steamdeck/</link>
+      <pubDate>Wed, 30 Oct 2024 19:10:00 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/steamdeck/2024-10-30-steamdeck/</guid>
+      <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;Diese Technischen Daten betreffen das Steamdeck LCD&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Prozessor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;7 nm AMD APU&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;CPU: Zen 2 4c/8t, 2,4 – 3,5 GHz (bis zu 448 GFlops FP32)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;GPU: 8 RDNA 2 CUs, 1,6 GHz (1,6 TFlops FP32)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;APU-Leistung: 4 – 15 W&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;RAM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;16 GB LPDDR5 Onboard-RAM (5500 MT/s 32-Bit-Vierkanal)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Speicher&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 64 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 256 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 512 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bildschirm&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;IPS-LCD mit Optical Bonding für verbesserte Lesbarkeit&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;7 Zoll diagonal&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;1280 × 800 × RGB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;60 Hz&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Touchscreen&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Verbindungen&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Bluetooth 5.0 (Unterstützung für Controller, Zubehör und Audio)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Dual-Band-WLAN-Sender, 2,4 GHz und 5 GHz, 2×2 MIMO, IEEE 802.11 a/b/g/n/ac&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Stereo mit eingebautem DSP für ein immersives Klangerlebnis&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Doppelmikrofon-Array&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;3,5-mm-Stereo-Kopfhörerbuchse&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Multikanal-Audio via DisplayPort über USB-C, Standard-USB-C oder Bluetooth 5.0&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Erweiterungsanschlüsse&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;UHS-I mit Unterstützung von SD, SDXC und SDHC&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;USB-C mit DisplayPort 1.4 mit Unterstützung von Alt-Modus; bis zu 8K mit 60 Hz oder 4K mit 120 Hz, USB 3.2 Gen. 2&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Maße &amp;amp; Gewicht&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;298 mm × 117 mm × 49 mm&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Ca. 669 Gramm&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Software&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;SteamOS 3 (auf Basis von Arch)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;KDE Plasma&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;retro-gaming-emulation&#34;&gt;Retro Gaming (Emulation)&lt;/h2&gt;
+&lt;p&gt;RetroDeck&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mein Umstieg auf Linux-Mint - Teil 0</title>
+      <link>http://Dominik-PC:1313/posts/umstieg-linux/01-umstieg-linux/</link>
+      <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/umstieg-linux/01-umstieg-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Von Wordpress zu Hugo</title>
+      <link>http://Dominik-PC:1313/posts/tutorials/wordpress-to-hugo/</link>
+      <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/tutorials/wordpress-to-hugo/</guid>
+      <description>&lt;p&gt;Die Entscheidung, von WordPress zu Hugo zu wechseln, bringt eine Menge Flexibilität und Geschwindigkeit mit sich. Falls du deine bestehenden WordPress-Posts auf Hugo übertragen möchtest, hilft dir diese Schritt-für-Schritt-Anleitung dabei, die Migration möglichst einfach und reibungslos zu gestalten.&lt;/p&gt;
+&lt;h2 id=&#34;schritt-1-export-der-wordpress-posts&#34;&gt;Schritt 1: Export der WordPress-Posts&lt;/h2&gt;
+&lt;p&gt;Der einfachste Weg, WordPress-Posts für Hugo zu exportieren, ist das Plugin &lt;strong&gt;WordPress to Hugo Exporter&lt;/strong&gt;. Es wandelt die Posts und Seiten automatisch in Markdown-Dateien mit YAML-Frontmatter um, die Hugo-kompatibel sind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doppelte Datensätze in SQL-Tabellen finden</title>
+      <link>http://Dominik-PC:1313/posts/tutorials/sql-doppelte-datensaetze/</link>
+      <pubDate>Mon, 30 Oct 2023 08:30:15 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/tutorials/sql-doppelte-datensaetze/</guid>
+      <description>&lt;p&gt;In der Datenbankverwaltung ist es wichtig, sicherzustellen, dass die Daten konsistent und eindeutig sind. Doppelte Datensätze können zu Verwirrung führen und die Integrität deiner Daten gefährden. In diesem Beitrag zeige ich dir, wie du doppelte Datensätze in einer SQL-Tabelle identifizieren kannst.&lt;/p&gt;
+&lt;h2 id=&#34;schritt-1-die-grundlegende-sql-abfrage&#34;&gt;Schritt 1: Die grundlegende SQL-Abfrage&lt;/h2&gt;
+&lt;p&gt;Um doppelte Datensätze zu finden, kannst du die &lt;code&gt;GROUP BY&lt;/code&gt;-Klausel zusammen mit der &lt;code&gt;HAVING&lt;/code&gt;-Klausel verwenden. Dies ermöglicht es dir, Gruppen von Datensätzen zu erstellen und die Anzahl der Datensätze in jeder Gruppe zu zählen. Hier ist ein allgemeines Beispiel:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Super Lucky’s Tale [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</link>
+      <pubDate>Mon, 23 Jan 2023 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</guid>
+      <description>&lt;p&gt;Eigentlich bin ich mit dem Vorgänger Super Lucky Tale auf der XBox One noch nicht fertig aber ich habe viel Gutes über die Portierung des Spiels gelesen und so musste ich auch dieses bestellen und in meine Sammlung aufnehmen. Dabei ist zu sagen, dass Super Lucky’s Tale mehr als nur eine Portierung auf die Nintendo Switch ist. Die Entwickler haben einige zum Teil nervige Fehler ausgemerzt und auch an der Steuerung ordentlich geschraubt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bud Spencer Terence Hill Slaps and Beans [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</link>
+      <pubDate>Wed, 13 May 2020 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</guid>
+      <description>&lt;p&gt;Haut den Schurken auf die Gurken! Neuzugang in dieser Woche ist ein lang­ er­sehnter Titel für die Nintendo Switch. Okay Okay, ich habe mir dieses Spiel bereits in digitaler Form gekauft und durch gespielt aber als großer Bud Spender &amp;amp; Terence Hill Fan seit… nun ja seitdem ich denken kann, musste ich auch die Collector Edition kaufen. Diese Edition wurde von Limited Run Games veröffentlicht. Bestellt hatte ich das Spiel vor ca. einem Jahr.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neues Headset – Hyper X Cloud II</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</link>
+      <pubDate>Tue, 10 Mar 2020 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</guid>
+      <description>&lt;p&gt;Es wurde Zeit für ein neues Headset. Dabei war mir wichtig, dass das Headset mit der Xbox und der PlayStation 4 kompatibel ist. Ein ziemlich cooles Feature ist, dass das Mikrofon vom Headset getrennt werden kann. Dies ist besonders praktisch, wenn man beispielsweise nur Musik hören möchte. Außerdem kommt zu dem Headset eine USB-Soundkarte die via. USB an den Computer angeschlossen wird. Ein kleiner Beutel für den Transport ist ebenfalls dabei.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neue SNES-Controller [SNES]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/neue-snes-controller/</link>
+      <pubDate>Fri, 03 Jan 2020 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/neue-snes-controller/</guid>
+      <description>&lt;p&gt;Das neue Jahr hat kaum begonnen und schon wächst die Gaming-Sammlung. Es wurde Zeit für neue Super Nintendo Controller. Meine alten Controller waren leider schon so abgenutzt, dass schnelle Interaktionen nicht mehr möglich waren. Nach etwas Suche auf Ebay bin ich dann fündig geworden und habe mir zwei neue Controller gekauft.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Falls Ihr euch auch neue SNES-Controller auf Ebay kaufen wollt, solltet Ihr genau darauf achten was Ihr kauft. Es sind einige nachgemachte Controller im Angebot die meiner Meinung nach nicht wirklich zu gebrauchen sind. Man erkennt diese Controller z. B. daran, dass die Aktion-Button „A, B, X, Y“ kleiner sind als beim Original.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pokémon Schwert und Schild [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</link>
+      <pubDate>Fri, 15 Nov 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</guid>
+      <description>&lt;p&gt;Es ist da! Heute sind die neuen Pokémon-Spiele – Schwert und Schild für die Nintendo Switch herausgekommen. Ich musste beide Spiele haben und hatte mir schon lange im Voraus die Steelbook-Edition vorbestellt. Dazu gab es gratis kleine Figuren der Starter-Pokémon dazu.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/pokemon_schwert_schild.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MediEvil [PlayStation 4]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/medievil-ps4/</link>
+      <pubDate>Wed, 06 Nov 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/medievil-ps4/</guid>
+      <description>&lt;p&gt;Als ich gesehen habe, dass von MediEvil eine überarbeitete Version für die PlayStation 4 kommt war ich schon Feuer und Flamme. Der erste Trailer weckte in mir direkt Nostalgie. Original erschien dieses Spiel für die PlayStation 1 und ich war damals schon ein großer Fan! Natürlich muss ich diese Version auch haben.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/medievil-ps4.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Michael Jackson’s Moonwalker [Sega Mega Drive]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</link>
+      <pubDate>Fri, 25 Oct 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</guid>
+      <description>&lt;p&gt;Heute mal etwas Neues für meine Sega Mega Drive Sammlung. Michael Jackson’s Moonwalker. Dieser Platformer mit Beat’em up und Shooter Elementen erschien am 25, Januar 1991 in Europa für den Sega Mega Drive. Gefunden habe ich dieses beim stöbern auf Ebay und für den Preis von 10 € kann man das Spiel schon mal mitnehmen.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/michael-jacksons-moonwalker.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Super Mario Maker 2 [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</link>
+      <pubDate>Thu, 27 Jun 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</guid>
+      <description>&lt;p&gt;Der Nachfolger des erfolgreichen Super-Mario-Maker (damals für die Wii U) nun auch für die Nintendo Switch. Endlich! Unterwegs neue Mario Level erstellen und spielen. Neben etlichen neuen Elementen und Gegnern ist nun unter anderem auch möglich, schräge Böden zu erstellen. Außerdem wurde der Online-Modus aufgebohrt und es ist nun möglich ein Level gegeneinander zu bestreiten.&lt;/p&gt;
+&lt;p&gt;Keine Frage es ist ein gutes Spiel aber Nintendo hätte noch viel mehr herausholen können. Auch der Online-Modus, in dem Ihr gegeneinander antreten, könnt ist nicht optimal. Hat einer der Mitspieler eine schlechte Internetverbindung, bleibt das gesamte Spiel hängen und Ihr könnt nicht weiter spielen. Dennoch habe ich es in meine Sammlung aufgenommen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crash Team Racing – Nitro Fueled [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</link>
+      <pubDate>Fri, 21 Jun 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</guid>
+      <description>&lt;p&gt;Als großer Crash Bandicoot Fan wurde ein Traum war! Crash Team Racing als Neuauflage für die aktuelle Konsolen-Generation? Muss ich natürlich haben! Diese wirklich sehr gelungene Neuauflage bringt nicht nur den alten Spielspaß zurück, sondern hat auch neue Elemente parat. Neben neuen Fahrern gibt es auch neue Strecken, Skins, Karts, Sticker und natürlich einen Online Modus. Dieses Spiel kann ich wirklich empfehlen!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/crash-team-racing-nitro-fueled.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Team Sonic Racing [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</link>
+      <pubDate>Tue, 21 May 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</guid>
+      <description>&lt;p&gt;Anzocken konnte ich dieses Spiel bereits auf der Gamescom 2018. Was soll ich sagen, ich hatte zu diesem Zeitpunkt Spaß mit diesem Spiel und habe es auch relativ früh vorbestellt. Ich war ziemlich überrascht als das Spiel bereits am 17. Mai bei mir im Briefkasten lag. Das Spiel kam nämlich erst am 21. Mai heraus.&lt;/p&gt;
+&lt;p&gt;Leider hat mich das Spiel dann aber nicht lange fesseln können. Die Team-Mechanik, auf die dieses Spiel aufsetzt ist meiner Meinung nach nicht ausgereift und es kommt viel zu oft vor, dass dein Team weit hinten liegt und du auf Platz 1 fährst. Dies sorgte bei mir relativ schnell für Frust und ich habe das Spiel abgebrochen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonic Mania Plus [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</link>
+      <pubDate>Fri, 26 Apr 2019 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</guid>
+      <description>&lt;p&gt;Neuzugang für die Nintendo Switch – Sonic Mania Plus. Dieses Spiel habe ich mir nicht direkt zum Release gekauft, da es zu diesem Zeitpunkt nur als Download-Titel erworben werden konnte. Ein Jahr nach dem Release habe ich es dann beim stöbern in einem örtlichen Kaufhaus gesehen und musste es mitnehmen. In der hier vorliegenden Box ist neben dem Hauptspiel auch das später erschienene DLC dabei. Außerdem liegt ein 32 seitiges Artbook dabei.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yooka-LayLee [Nintendo Switch]</title>
+      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</link>
+      <pubDate>Sat, 22 Dec 2018 08:45:39 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</guid>
+      <description>&lt;p&gt;Weihnachten steht vor der Tür und das Wetter lädt zum gemütlichen zocken ein. Als kleines Weihnachtsgeschenk an mich selbst habe ich mir Yooka-LayLee für die Nintendo Switch in der Retail-Version von Limited Run gekauft. Dieser 3D Platformer vom Publisher Playtonic erinnert an den guten alten Klassiker Banjoo Kazooie!&lt;/p&gt;
+&lt;h2 id=&#34;der-spirituelle-nachfolger-der-banjo-kazooie-reihe&#34;&gt;Der spirituelle Nachfolger der „Banjo Kazooie“-Reihe&lt;/h2&gt;
+&lt;p&gt;Yooka-LayLee wurde von einem ehemaligen Team damaliger Rare Mitarbeiter, heute unter dem Namen Playtonic entwickelt und soll der spirituelle Nachfolger der damals erschienenen Banjo Kazooie-Reihe sein. Als bekannt wurde, dass dieses Spiel entwickelt wurde, spaltete es die Meinung der Gaming-Community. Man war sich nicht sicher, ob es möglich ist, die Atmosphäre der alten Spiele einzufangen und in ein neues Spiel zu packen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

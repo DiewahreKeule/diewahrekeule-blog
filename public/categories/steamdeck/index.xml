@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Steamdeck on DiewahreKeule</title>
+    <link>http://Dominik-PC:1313/categories/steamdeck/</link>
+    <description>Recent content in Steamdeck on DiewahreKeule</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Oct 2024 19:10:00 +0100</lastBuildDate>
+    <atom:link href="http://Dominik-PC:1313/categories/steamdeck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steamdeck - Hybride Spielekonsole, PC und mehr</title>
+      <link>http://Dominik-PC:1313/posts/steamdeck/2024-10-30-steamdeck/</link>
+      <pubDate>Wed, 30 Oct 2024 19:10:00 +0100</pubDate>
+      <guid>http://Dominik-PC:1313/posts/steamdeck/2024-10-30-steamdeck/</guid>
+      <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;Diese Technischen Daten betreffen das Steamdeck LCD&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Prozessor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;7 nm AMD APU&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;CPU: Zen 2 4c/8t, 2,4 – 3,5 GHz (bis zu 448 GFlops FP32)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;GPU: 8 RDNA 2 CUs, 1,6 GHz (1,6 TFlops FP32)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;APU-Leistung: 4 – 15 W&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;RAM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;16 GB LPDDR5 Onboard-RAM (5500 MT/s 32-Bit-Vierkanal)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Speicher&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 64 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 256 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Steam Deck 512 GB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bildschirm&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;IPS-LCD mit Optical Bonding für verbesserte Lesbarkeit&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;7 Zoll diagonal&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;1280 × 800 × RGB&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;60 Hz&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Touchscreen&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Verbindungen&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Bluetooth 5.0 (Unterstützung für Controller, Zubehör und Audio)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Dual-Band-WLAN-Sender, 2,4 GHz und 5 GHz, 2×2 MIMO, IEEE 802.11 a/b/g/n/ac&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Stereo mit eingebautem DSP für ein immersives Klangerlebnis&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Doppelmikrofon-Array&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;3,5-mm-Stereo-Kopfhörerbuchse&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Multikanal-Audio via DisplayPort über USB-C, Standard-USB-C oder Bluetooth 5.0&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Erweiterungsanschlüsse&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;UHS-I mit Unterstützung von SD, SDXC und SDHC&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;USB-C mit DisplayPort 1.4 mit Unterstützung von Alt-Modus; bis zu 8K mit 60 Hz oder 4K mit 120 Hz, USB 3.2 Gen. 2&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Maße &amp;amp; Gewicht&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;298 mm × 117 mm × 49 mm&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Ca. 669 Gramm&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Software&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;SteamOS 3 (auf Basis von Arch)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;KDE Plasma&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;retro-gaming-emulation&#34;&gt;Retro Gaming (Emulation)&lt;/h2&gt;
+&lt;p&gt;RetroDeck&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
