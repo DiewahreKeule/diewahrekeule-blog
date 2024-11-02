@@ -26,9 +26,9 @@ menu:
       name: "Über mich"    
       url: /about-me/
       weight: 40
-    - identifier: datenschutz
-      name: "Datenschutz"
-      url: /datenschutz/
+    #- identifier: datenschutz
+    #  name: "Datenschutz"
+    #  url: /datenschutz/
 
 # Parameter
 params:
