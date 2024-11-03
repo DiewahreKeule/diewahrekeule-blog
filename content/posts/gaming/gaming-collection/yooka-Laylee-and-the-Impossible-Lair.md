@@ -1,6 +1,6 @@
 ---
 date: '2024-11-03T11:12:41+01:00'
-draft: true
+draft: false
 title: 'Yooka Laylee and the Impossible Lair [Nintendo Switch]'
 tags: ["Gaming Kollektion", "Nintendo Switch"]
 categories: ["Gaming"]

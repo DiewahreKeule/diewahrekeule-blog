@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01T11:17:43+01:00'
-draft: true
+draft: false
 title: 'Bully: Scholarship Edition - Rockstar Games’ kultiges Schulabenteuer [PC]'
 tags: ["Gaming Kollektion", "PC"]
 categories: ["Gaming"]
