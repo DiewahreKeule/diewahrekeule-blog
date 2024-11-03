@@ -3,8 +3,9 @@
     display: grid;
     flex-direction: column;
     justify-content: center;
-    /* min-height: 320px; */
-    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+    /* min-height: 320px; Show Icons on Top of the Page */    
+    
+    /* margin: var(--gap) 0 calc(var(--gap) * 2) 0; dont calculate the height automatic */    
 }
 
 .first-entry .entry-header {
@@ -12,6 +13,7 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
+    display: none;
 }
 
 .first-entry .entry-header h1 {
@@ -20,19 +22,26 @@
 }
 
 .first-entry .entry-content {
-    margin: 14px 0;
+    /*margin: 14px 0;*/
     font-size: 16px;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 3;    
+    display: none;
 }
 
 .first-entry .entry-footer {
     font-size: 14px;
+    padding-bottom: 30px;       
 }
 
 .home-info .entry-content {
-    /* -webkit-line-clamp: unset;     */
+    -webkit-line-clamp: unset;     
     margin-top: 0;
-    padding-top: 0;
+    padding-top: 0;        
+}
+
+/* DiewahreKeule - first entry home-info height */
+.home-info {
+    min-height: 90px !important;    
 }
 
 .post-entry {

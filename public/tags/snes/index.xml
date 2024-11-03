@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SNES on DiewahreKeule</title>
-    <link>http://Dominik-PC:1313/tags/snes/</link>
+    <link>http://localhost:1313/tags/snes/</link>
     <description>Recent content in SNES on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 08:45:39 +0100</lastBuildDate>
-    <atom:link href="http://Dominik-PC:1313/tags/snes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/snes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neue SNES-Controller [SNES]</title>
-      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/neue-snes-controller/</link>
+      <link>http://localhost:1313/posts/gaming/gaming-collection/neue-snes-controller/</link>
       <pubDate>Fri, 03 Jan 2020 08:45:39 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/neue-snes-controller/</guid>
+      <guid>http://localhost:1313/posts/gaming/gaming-collection/neue-snes-controller/</guid>
       <description>&lt;p&gt;Das neue Jahr hat kaum begonnen und schon wächst die Gaming-Sammlung. Es wurde Zeit für neue Super Nintendo Controller. Meine alten Controller waren leider schon so abgenutzt, dass schnelle Interaktionen nicht mehr möglich waren. Nach etwas Suche auf Ebay bin ich dann fündig geworden und habe mir zwei neue Controller gekauft.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Falls Ihr euch auch neue SNES-Controller auf Ebay kaufen wollt, solltet Ihr genau darauf achten was Ihr kauft. Es sind einige nachgemachte Controller im Angebot die meiner Meinung nach nicht wirklich zu gebrauchen sind. Man erkennt diese Controller z. B. daran, dass die Aktion-Button „A, B, X, Y“ kleiner sind als beim Original.&lt;/p&gt;</description>
     </item>

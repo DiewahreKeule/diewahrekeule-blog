@@ -23,6 +23,7 @@
     padding: 0 16px;
 }
 
+/* DiewahreKeule - Button prev and next color override START */
 .pagination .next {
     margin-inline-start: auto;
     background: #C22E30;
@@ -33,6 +34,7 @@
     background: #C22E30;
     color: white;
 }
+/* DiewahreKeule - Button prev and next color override END */
 
 .social-icons a {
     display: inline-flex;
@@ -46,11 +48,12 @@
     transition: transform 0.3s ease; /* Weicher Übergang */
 }
 
-/* DiewahreKeule - 31.10.2024 - Hover Effekt */
+/* DiewahreKeule - 31.10.2024 - Hover effect START */
 .social-icons a svg:hover {
     color: #C22E30;
-    transform: scale(1.4); /*Element leicht vergrößern*/
+    transform: scale(1.4); /* scale Object */
 }
+/* DiewahreKeule - 31.10.2024 - Hover effect END */
 
 code {
     direction: ltr;

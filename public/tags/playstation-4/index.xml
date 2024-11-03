@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PlayStation 4 on DiewahreKeule</title>
-    <link>http://Dominik-PC:1313/tags/playstation-4/</link>
+    <link>http://localhost:1313/tags/playstation-4/</link>
     <description>Recent content in PlayStation 4 on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 08:45:39 +0100</lastBuildDate>
-    <atom:link href="http://Dominik-PC:1313/tags/playstation-4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/playstation-4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MediEvil [PlayStation 4]</title>
-      <link>http://Dominik-PC:1313/posts/gaming/gaming-collection/medievil-ps4/</link>
+      <link>http://localhost:1313/posts/gaming/gaming-collection/medievil-ps4/</link>
       <pubDate>Wed, 06 Nov 2019 08:45:39 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/posts/gaming/gaming-collection/medievil-ps4/</guid>
+      <guid>http://localhost:1313/posts/gaming/gaming-collection/medievil-ps4/</guid>
       <description>&lt;p&gt;Als ich gesehen habe, dass von MediEvil eine überarbeitete Version für die PlayStation 4 kommt war ich schon Feuer und Flamme. Der erste Trailer weckte in mir direkt Nostalgie. Original erschien dieses Spiel für die PlayStation 1 und ich war damals schon ein großer Fan! Natürlich muss ich diese Version auch haben.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://Dominik-PC:1313/images/medievil-ps4.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/medievil-ps4.jpg&#34; alt=&#34;alt&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
   </channel>

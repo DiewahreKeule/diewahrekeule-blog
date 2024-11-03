@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SQL on DiewahreKeule</title>
-    <link>http://Dominik-PC:1313/tags/sql/</link>
+    <link>http://localhost:1313/tags/sql/</link>
     <description>Recent content in SQL on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Oct 2023 08:30:15 +0100</lastBuildDate>
-    <atom:link href="http://Dominik-PC:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doppelte Datensätze in SQL-Tabellen finden</title>
-      <link>http://Dominik-PC:1313/posts/tutorials/sql-doppelte-datensaetze/</link>
+      <link>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</link>
       <pubDate>Mon, 30 Oct 2023 08:30:15 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/posts/tutorials/sql-doppelte-datensaetze/</guid>
+      <guid>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</guid>
       <description>&lt;p&gt;In der Datenbankverwaltung ist es wichtig, sicherzustellen, dass die Daten konsistent und eindeutig sind. Doppelte Datensätze können zu Verwirrung führen und die Integrität deiner Daten gefährden. In diesem Beitrag zeige ich dir, wie du doppelte Datensätze in einer SQL-Tabelle identifizieren kannst.&lt;/p&gt;
 &lt;h2 id=&#34;schritt-1-die-grundlegende-sql-abfrage&#34;&gt;Schritt 1: Die grundlegende SQL-Abfrage&lt;/h2&gt;
 &lt;p&gt;Um doppelte Datensätze zu finden, kannst du die &lt;code&gt;GROUP BY&lt;/code&gt;-Klausel zusammen mit der &lt;code&gt;HAVING&lt;/code&gt;-Klausel verwenden. Dies ermöglicht es dir, Gruppen von Datensätzen zu erstellen und die Anzahl der Datensätze in jeder Gruppe zu zählen. Hier ist ein allgemeines Beispiel:&lt;/p&gt;</description>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on DiewahreKeule</title>
-    <link>http://Dominik-PC:1313/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Oct 2024 19:10:00 +0100</lastBuildDate>
-    <atom:link href="http://Dominik-PC:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steamdeck</title>
-      <link>http://Dominik-PC:1313/categories/steamdeck/</link>
+      <link>http://localhost:1313/categories/steamdeck/</link>
       <pubDate>Wed, 30 Oct 2024 19:10:00 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/categories/steamdeck/</guid>
+      <guid>http://localhost:1313/categories/steamdeck/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorials</title>
-      <link>http://Dominik-PC:1313/categories/tutorials/</link>
+      <link>http://localhost:1313/categories/tutorials/</link>
       <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/categories/tutorials/</guid>
+      <guid>http://localhost:1313/categories/tutorials/</guid>
       <description></description>
     </item>
     <item>
       <title>Umstieg-Linux</title>
-      <link>http://Dominik-PC:1313/categories/umstieg-linux/</link>
+      <link>http://localhost:1313/categories/umstieg-linux/</link>
       <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/categories/umstieg-linux/</guid>
+      <guid>http://localhost:1313/categories/umstieg-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>http://Dominik-PC:1313/categories/gaming/</link>
+      <link>http://localhost:1313/categories/gaming/</link>
       <pubDate>Mon, 23 Jan 2023 08:45:39 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/categories/gaming/</guid>
+      <guid>http://localhost:1313/categories/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>http://Dominik-PC:1313/categories/hardware/</link>
+      <link>http://localhost:1313/categories/hardware/</link>
       <pubDate>Tue, 10 Mar 2020 08:45:39 +0100</pubDate>
-      <guid>http://Dominik-PC:1313/categories/hardware/</guid>
+      <guid>http://localhost:1313/categories/hardware/</guid>
       <description></description>
     </item>
   </channel>
