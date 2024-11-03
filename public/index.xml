@@ -53,146 +53,7 @@
       <pubDate>Wed, 30 Oct 2024 19:10:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/steamdeck/2024-10-30-steamdeck/</guid>
       <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;
-&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
-&lt;p&gt;Diese Technischen Daten betreffen das Steamdeck LCD&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Prozessor&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;7 nm AMD APU&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;CPU: Zen 2 4c/8t, 2,4 – 3,5 GHz (bis zu 448 GFlops FP32)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;GPU: 8 RDNA 2 CUs, 1,6 GHz (1,6 TFlops FP32)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;APU-Leistung: 4 – 15 W&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;RAM&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;16 GB LPDDR5 Onboard-RAM (5500 MT/s 32-Bit-Vierkanal)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Speicher&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Steam Deck 64 GB&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Steam Deck 256 GB&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Steam Deck 512 GB&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Bildschirm&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;IPS-LCD mit Optical Bonding für verbesserte Lesbarkeit&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;7 Zoll diagonal&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;1280 × 800 × RGB&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;60 Hz&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Touchscreen&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Verbindungen&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Bluetooth 5.0 (Unterstützung für Controller, Zubehör und Audio)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Dual-Band-WLAN-Sender, 2,4 GHz und 5 GHz, 2×2 MIMO, IEEE 802.11 a/b/g/n/ac&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Stereo mit eingebautem DSP für ein immersives Klangerlebnis&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Doppelmikrofon-Array&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;3,5-mm-Stereo-Kopfhörerbuchse&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Multikanal-Audio via DisplayPort über USB-C, Standard-USB-C oder Bluetooth 5.0&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Erweiterungsanschlüsse&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;UHS-I mit Unterstützung von SD, SDXC und SDHC&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;USB-C mit DisplayPort 1.4 mit Unterstützung von Alt-Modus; bis zu 8K mit 60 Hz oder 4K mit 120 Hz, USB 3.2 Gen. 2&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Maße &amp;amp; Gewicht&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;298 mm × 117 mm × 49 mm&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Ca. 669 Gramm&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Software&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;SteamOS 3 (auf Basis von Arch)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;KDE Plasma&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;retro-gaming-emulation&#34;&gt;Retro Gaming (Emulation)&lt;/h2&gt;
-&lt;p&gt;RetroDeck&lt;/p&gt;</description>
+&lt;p&gt;In der Welt der Gaming-Konsolen hat das Steam Deck von Valve für viel Aufsehen gesorgt. Als leistungsstarker Handheld-PC kombiniert es die Flexibilität eines Mobilgeräts mit der Leistungsfähigkeit eines vollwertigen Gaming-PCs. In diesem Blogbeitrag werfen wir einen Blick auf das Steam Deck und zeigen, warum es als hervorragende Hybrid-Konsole gilt, die sich besonders gut für das Spielen von aktuellen Titeln und das Emulieren klassischer Spiele eignet – vor allem in Kombination mit der Software RetroDeck.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Hat in Time [PC]</title>
@@ -203,6 +64,22 @@
 &lt;p&gt;In der Welt der Plattformspiele gibt es viele Klassiker, aber nur wenige schaffen es, den Charme und die Kreativität von „A Hat in Time“ zu übertreffen. Entwickelt von Gears for Breakfast, bietet dieses Spiel eine erfrischende Mischung aus nostalgischen Gameplay-Elementen, farbenfrohen Grafiken und einem unverwechselbaren Humor, der es zu einem echten Hit unter Indie-Games gemacht hat.&lt;/p&gt;
 &lt;h3 id=&#34;handlung-und-charaktere&#34;&gt;Handlung und Charaktere&lt;/h3&gt;
 &lt;p&gt;Die Geschichte von „A Hat in Time“ folgt dem kleinen Mädchen, bekannt als „Hat Kid“, das in einem Raumschiff reist, das von einem mysteriösen Alien-Charakter, dem „Mustache Girl“, gestohlen wird. Um ihr Raumschiff zurückzubekommen, muss Hat Kid verschiedene Welten erkunden, Herausforderungen meistern und spezielle „Time Pieces“ sammeln. Jede Welt hat ihren eigenen einzigartigen Stil und bietet abwechslungsreiche Quests, die sowohl für Plattform-Fans als auch für Neulinge zugänglich sind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tomb Raider I II III Remastered [PC]</title>
+      <link>http://localhost:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</link>
+      <pubDate>Thu, 11 Apr 2024 18:00:39 +0100</pubDate>
+      <guid>http://localhost:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</guid>
+      <description>&lt;h3 id=&#34;tomb-raider-1-3-remastered--die-wiedergeburt-einer-legende&#34;&gt;Tomb Raider 1-3 Remastered – Die Wiedergeburt einer Legende&lt;/h3&gt;
+&lt;p&gt;Die Tomb Raider 1-3 Remastered Collection bringt die ersten drei Spiele der ikonischen Reihe zurück auf die modernen Konsolen und PC, und das in einer überarbeiteten Version, die sowohl alte Fans als auch neue Spieler anspricht. Lara Croft, die berühmteste Archäologin der Videospielgeschichte, kehrt zurück und lädt uns ein, die spannenden Abenteuer der 90er Jahre mit frischem Glanz und neuem Leben zu erleben. In diesem Blogbeitrag werfen wir einen Blick auf die Remaster der ersten drei Tomb Raider-Spiele und was sie so besonders macht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spyro Reignited Trilogy [Nintendo Switch]</title>
+      <link>http://localhost:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</link>
+      <pubDate>Tue, 14 Nov 2023 16:45:39 +0100</pubDate>
+      <guid>http://localhost:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</guid>
+      <description>&lt;h3 id=&#34;spyro-reignited-trilogy--ein-drache-kehrt-zurück&#34;&gt;Spyro Reignited Trilogy – Ein Drache kehrt zurück&lt;/h3&gt;
+&lt;p&gt;Die Spyro Reignited Trilogy ist ein modernes Remake der ersten drei Spiele des beliebten Drachen Spyro, die ursprünglich in den späten 90er Jahren auf der PlayStation veröffentlicht wurden. Mit einer neuen grafischen Aufbereitung, überarbeitetem Gameplay und dem Charme des Originals hat diese Trilogy die Herzen vieler Spieler erobert. In diesem Blogbeitrag werfen wir einen genaueren Blick auf die Spyro Reignited Trilogy und was sie zu einem Muss für Fans von Plattformspielen macht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doppelte Datensätze in SQL-Tabellen finden</title>
@@ -246,6 +123,14 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Falls Ihr euch auch neue SNES-Controller auf Ebay kaufen wollt, solltet Ihr genau darauf achten was Ihr kauft. Es sind einige nachgemachte Controller im Angebot die meiner Meinung nach nicht wirklich zu gebrauchen sind. Man erkennt diese Controller z. B. daran, dass die Aktion-Button „A, B, X, Y“ kleiner sind als beim Original.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crash Bandicoot: N. Sane Trilogy [Nintendo Switch]</title>
+      <link>http://localhost:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</link>
+      <pubDate>Sat, 28 Dec 2019 08:45:39 +0100</pubDate>
+      <guid>http://localhost:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</guid>
+      <description>&lt;h3 id=&#34;crash-bandicoot-n-sane-trilogy--ein-zeitloses-abenteuer-neu-aufgelegt&#34;&gt;Crash Bandicoot: N. Sane Trilogy – Ein zeitloses Abenteuer neu aufgelegt&lt;/h3&gt;
+&lt;p&gt;Crash Bandicoot ist eine Ikone der Videospielgeschichte, die Generationen von Spielern begeistert hat. Mit der Veröffentlichung von Crash Bandicoot: N. Sane Trilogy im Jahr 2017 erlebte die Reihe ein beeindruckendes Comeback, das nicht nur alte Fans zurückbrachte, sondern auch eine neue Generation von Spielern ansprach. In diesem Blogbeitrag werfen wir einen Blick auf die N. Sane Trilogy und was sie so besonders macht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pokémon Schwert und Schild [Nintendo Switch]</title>

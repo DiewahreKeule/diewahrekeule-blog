@@ -3,13 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-10-30T19:10:00+01:00</lastmod>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-30T19:10:00+01:00</lastmod>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</loc>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-30T19:10:00+01:00</lastmod>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutorials/</loc>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/umstieg-linux/</loc>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/umstieg-linux/</loc>
+    <lastmod>2024-11-03T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-2/</loc>
+    <lastmod>2024-11-03T11:26:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gaming/</loc>
+    <lastmod>2024-11-03T11:26:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gaming-kollektion/</loc>
+    <lastmod>2024-11-03T11:26:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pc/</loc>
+    <lastmod>2024-11-03T11:26:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nintendo-switch/</loc>
+    <lastmod>2024-11-03T11:12:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gaming/gaming-collection/yooka-laylee-and-the-impossible-lair/</loc>
+    <lastmod>2024-11-03T11:12:41+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gaming/gaming-collection/super-mario-wonder/</loc>
+    <lastmod>2024-11-02T11:17:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gaming/gaming-collection/bully-bully-scholarship-edition/</loc>
+    <lastmod>2024-11-01T11:17:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/steamdeck/</loc>
     <lastmod>2024-10-30T19:10:00+01:00</lastmod>
@@ -17,20 +56,8 @@
     <loc>http://localhost:1313/posts/steamdeck/2024-10-30-steamdeck/</loc>
     <lastmod>2024-10-30T19:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-30T19:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutorials/</loc>
-    <lastmod>2024-10-30T19:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/umstieg-linux/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/umstieg-linux/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
+    <loc>http://localhost:1313/posts/gaming/gaming-collection/a-hat-in-time/</loc>
+    <lastmod>2024-09-12T11:17:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</loc>
     <lastmod>2023-10-30T08:30:15+01:00</lastmod>
@@ -41,16 +68,7 @@
     <loc>http://localhost:1313/categories/tutorials/</loc>
     <lastmod>2023-10-30T08:30:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gaming/</loc>
-    <lastmod>2023-01-23T08:45:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gaming-kollektion/</loc>
-    <lastmod>2023-01-23T08:45:39+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</loc>
-    <lastmod>2023-01-23T08:45:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nintendo-switch/</loc>
     <lastmod>2023-01-23T08:45:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</loc>

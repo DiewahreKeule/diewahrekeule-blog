@@ -6,8 +6,22 @@
     <description>Recent content in Categories on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2024 19:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 15:15:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Umstieg-Linux</title>
+      <link>http://localhost:1313/categories/umstieg-linux/</link>
+      <pubDate>Sun, 03 Nov 2024 15:15:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/umstieg-linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>http://localhost:1313/categories/gaming/</link>
+      <pubDate>Sun, 03 Nov 2024 11:26:57 +0100</pubDate>
+      <guid>http://localhost:1313/categories/gaming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Steamdeck</title>
       <link>http://localhost:1313/categories/steamdeck/</link>
@@ -16,24 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Umstieg-Linux</title>
-      <link>http://localhost:1313/categories/umstieg-linux/</link>
-      <pubDate>Wed, 30 Oct 2024 09:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/umstieg-linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tutorials</title>
       <link>http://localhost:1313/categories/tutorials/</link>
       <pubDate>Mon, 30 Oct 2023 08:30:15 +0100</pubDate>
       <guid>http://localhost:1313/categories/tutorials/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaming</title>
-      <link>http://localhost:1313/categories/gaming/</link>
-      <pubDate>Mon, 23 Jan 2023 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/categories/gaming/</guid>
       <description></description>
     </item>
     <item>
