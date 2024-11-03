@@ -4,6 +4,8 @@ draft: false
 title: 'Neue SNES-Controller [SNES]'
 tags: ["Gaming Kollektion", "Gaming Hardware", SNES]
 categories: ["Gaming", "Hardware"]
+cover:
+  image: "/header-images/SNES-Controller.png"
 ---
 
 Das neue Jahr hat kaum begonnen und schon wächst die Gaming-Sammlung. Es wurde Zeit für neue Super Nintendo Controller. Meine alten Controller waren leider schon so abgenutzt, dass schnelle Interaktionen nicht mehr möglich waren. Nach etwas Suche auf Ebay bin ich dann fündig geworden und habe mir zwei neue Controller gekauft.

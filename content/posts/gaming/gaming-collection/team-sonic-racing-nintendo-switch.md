@@ -4,6 +4,8 @@ draft: false
 title: 'Team Sonic Racing [Nintendo Switch]'
 tags: ["Gaming Kollektion", "Nintendo Switch"]
 categories: ["Gaming"]
+cover:
+  image: "/header-images/Team Sonic Racing.jpg"
 ---
 
 Anzocken konnte ich dieses Spiel bereits auf der Gamescom 2018. Was soll ich sagen, ich hatte zu diesem Zeitpunkt Spaß mit diesem Spiel und habe es auch relativ früh vorbestellt. Ich war ziemlich überrascht als das Spiel bereits am 17. Mai bei mir im Briefkasten lag. Das Spiel kam nämlich erst am 21. Mai heraus.

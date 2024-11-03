@@ -4,6 +4,8 @@ draft: false
 title: 'Bud Spencer Terence Hill Slaps and Beans [Nintendo Switch]'
 tags: ["Gaming Kollektion", "Nintendo Switch"]
 categories: ["Gaming"]
+cover:
+  image: "/header-images/Slaps and Beans.png"
 ---
 
 Haut den Schurken auf die Gurken! Neuzugang in dieser Woche ist ein lang­ er­sehnter Titel für die Nintendo Switch. Okay Okay, ich habe mir dieses Spiel bereits in digitaler Form gekauft und durch gespielt aber als großer Bud Spender & Terence Hill Fan seit… nun ja seitdem ich denken kann, musste ich auch die Collector Edition kaufen. Diese Edition wurde von Limited Run Games veröffentlicht. Bestellt hatte ich das Spiel vor ca. einem Jahr.

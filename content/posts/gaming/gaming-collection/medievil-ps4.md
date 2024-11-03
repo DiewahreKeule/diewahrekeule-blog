@@ -4,6 +4,8 @@ draft: false
 title: 'MediEvil [PlayStation 4]'
 tags: ["Gaming Kollektion", "PlayStation 4"]
 categories: ["Gaming"]
+cover:
+  image: "/header-images/medievil-remake-ps4.jpg"
 ---
 
 Als ich gesehen habe, dass von MediEvil eine überarbeitete Version für die PlayStation 4 kommt war ich schon Feuer und Flamme. Der erste Trailer weckte in mir direkt Nostalgie. Original erschien dieses Spiel für die PlayStation 1 und ich war damals schon ein großer Fan! Natürlich muss ich diese Version auch haben.

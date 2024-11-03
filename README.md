@@ -5,3 +5,6 @@ Mein persönlicher Blog
 ## Software
 - **Hugo:**   0.134.2
 - **Theme:**  PaperMod
+
+## Links
+- [Font](https://www.1001fonts.com/zig-font.html)

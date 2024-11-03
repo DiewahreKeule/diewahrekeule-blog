@@ -4,6 +4,8 @@ draft: false
 title: 'Neues Headset – Hyper X Cloud II'
 tags: ["Gaming Hardware", "Hardware"]
 categories: ["Gaming", "Hardware"]
+cover:
+  image: "/header-images/Headset Hyper Cloud II.png"
 ---
 
 Es wurde Zeit für ein neues Headset. Dabei war mir wichtig, dass das Headset mit der Xbox und der PlayStation 4 kompatibel ist. Ein ziemlich cooles Feature ist, dass das Mikrofon vom Headset getrennt werden kann. Dies ist besonders praktisch, wenn man beispielsweise nur Musik hören möchte. Außerdem kommt zu dem Headset eine USB-Soundkarte die via. USB an den Computer angeschlossen wird. Ein kleiner Beutel für den Transport ist ebenfalls dabei.

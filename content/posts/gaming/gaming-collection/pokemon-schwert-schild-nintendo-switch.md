@@ -4,6 +4,8 @@ draft: false
 title: 'Pokémon Schwert und Schild [Nintendo Switch]'
 tags: ["Gaming Kollektion", "Nintendo Switch"]
 categories: ["Gaming"]
+cover:
+  image: "/header-images/Pokémon Schwert und Schild.jpg"
 ---
 
 Es ist da! Heute sind die neuen Pokémon-Spiele – Schwert und Schild für die Nintendo Switch herausgekommen. Ich musste beide Spiele haben und hatte mir schon lange im Voraus die Steelbook-Edition vorbestellt. Dazu gab es gratis kleine Figuren der Starter-Pokémon dazu.

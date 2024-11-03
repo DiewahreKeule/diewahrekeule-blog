@@ -4,6 +4,8 @@ draft: false
 title: 'Yooka-LayLee [Nintendo Switch]'
 tags: ["Gaming Kollektion", "Nintendo Switch"]
 categories: ["Gaming"]
+cover:
+  image: "/header-images/Yooka-LayLee.jpg"
 ---
 
 Weihnachten steht vor der Tür und das Wetter lädt zum gemütlichen zocken ein. Als kleines Weihnachtsgeschenk an mich selbst habe ich mir Yooka-LayLee für die Nintendo Switch in der Retail-Version von Limited Run gekauft. Dieser 3D Platformer vom Publisher Playtonic erinnert an den guten alten Klassiker Banjoo Kazooie!

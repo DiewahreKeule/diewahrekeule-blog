@@ -4,6 +4,8 @@ draft: false
 title: 'Doppelte Datensätze in SQL-Tabellen finden'
 tags: [Tutorials, SQL]
 categories: ["Tutorials"]
+cover:
+  image: "/header-images/sql.png"
 ---
 
 In der Datenbankverwaltung ist es wichtig, sicherzustellen, dass die Daten konsistent und eindeutig sind. Doppelte Datensätze können zu Verwirrung führen und die Integrität deiner Daten gefährden. In diesem Beitrag zeige ich dir, wie du doppelte Datensätze in einer SQL-Tabelle identifizieren kannst.

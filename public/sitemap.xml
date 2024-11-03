@@ -23,13 +23,7 @@
     <loc>http://localhost:1313/tags/tutorials/</loc>
     <lastmod>2024-10-30T19:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tutorials/</loc>
     <lastmod>2024-10-30T09:10:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/umstieg-linux/</loc>
@@ -38,16 +32,13 @@
     <loc>http://localhost:1313/categories/umstieg-linux/</loc>
     <lastmod>2024-10-30T09:10:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tutorials/wordpress-to-hugo/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wordpress/</loc>
-    <lastmod>2024-10-30T09:10:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</loc>
     <lastmod>2023-10-30T08:30:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2023-10-30T08:30:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutorials/</loc>
     <lastmod>2023-10-30T08:30:15+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/gaming/</loc>
