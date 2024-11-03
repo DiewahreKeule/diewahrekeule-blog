@@ -2,6 +2,8 @@
 date: '2024-11-02T11:17:43+01:00'
 draft: false
 title: 'Super Mario Wonder [Nintendo Switch]'
+tags: ["Gaming Kollektion", "Nintendo Switch"]
+categories: ["Gaming"]
 ShowToc: true
 cover:
   image: "header-images/Super Mario Wonder.png"
