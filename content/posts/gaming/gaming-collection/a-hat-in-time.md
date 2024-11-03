@@ -2,6 +2,7 @@
 date: '2024-09-12T11:17:43+01:00'
 draft: false
 title: 'A Hat in Time [PC]'
+ShowToc: true
 cover:
   image: "header-images/A Hat in Time.png"
 ---
