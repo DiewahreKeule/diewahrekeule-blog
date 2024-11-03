@@ -7,4 +7,3 @@ Mein persönlicher Blog
 - **Theme:**  PaperMod
 
 ## Links
-- [Font](https://www.1001fonts.com/zig-font.html)
