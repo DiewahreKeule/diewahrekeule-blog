@@ -2,6 +2,7 @@
 date: '2024-11-03T11:26:57+01:00'
 draft: false
 title: 'Bud Spencer Terence Hill Slaps and Beans 2 [PC]'
+ShowToc: true
 tags: ["Gaming Kollektion", "PC"]
 categories: ["Gaming"]
 cover:
