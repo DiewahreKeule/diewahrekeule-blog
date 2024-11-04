@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DiewahreKeule</title>
-    <link>http://localhost:1313/</link>
+    <link>http://192.168.2.177:1313/</link>
     <description>Recent content on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 15:15:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.2.177:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mein Umstieg auf Linux-Mint</title>
-      <link>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</link>
+      <link>http://192.168.2.177:1313/posts/umstieg-linux/01-umstieg-linux/</link>
       <pubDate>Sun, 03 Nov 2024 15:15:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</guid>
+      <guid>http://192.168.2.177:1313/posts/umstieg-linux/01-umstieg-linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Bud Spencer Terence Hill Slaps and Beans 2 [PC]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-2/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-2/</link>
       <pubDate>Sun, 03 Nov 2024 11:26:57 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-2/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-2/</guid>
       <description>&lt;p&gt;&amp;ldquo;Slaps and Beans 2&amp;rdquo; ist die Fortsetzung des erfolgreichen Koop-Prügelspiels, das Kult-Figuren Bud Spencer und Terence Hill in einem humorvollen, actionreichen Abenteuer vereint. Entwickelt von Trinity Team und unterstützt durch eine begeisterte Fangemeinde, bringt der zweite Teil neue Levels, Herausforderungen und noch mehr von dem charmanten Humor, für den das Duo bekannt ist. In diesem Beitrag werfen wir einen Blick auf das Gameplay, die Story und warum &amp;ldquo;Slaps and Beans 2&amp;rdquo; die perfekte Hommage an das unvergessliche Filmduo ist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yooka Laylee and the Impossible Lair [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/yooka-laylee-and-the-impossible-lair/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/yooka-laylee-and-the-impossible-lair/</link>
       <pubDate>Sun, 03 Nov 2024 11:12:41 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/yooka-laylee-and-the-impossible-lair/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/yooka-laylee-and-the-impossible-lair/</guid>
       <description>&lt;p&gt;Mit &amp;ldquo;Yooka-Laylee and the Impossible Lair&amp;rdquo; knüpft das Entwicklerstudio Playtonic Games an das Erfolgskonzept klassischer Plattformer an und bringt den Geist der frühen 2000er zurück in ein modernes Setting. Während das erste &amp;ldquo;Yooka-Laylee&amp;rdquo; noch auf 3D-Welten setzte, kombiniert die Fortsetzung geschickt 2D-Plattforming mit einem innovativen Leveldesign und einer dynamischen Oberwelt. In diesem Beitrag schauen wir uns die wichtigsten Features und Neuerungen des Spiels an und warum es sowohl für Retro-Fans als auch für Neulinge im Genre spannend ist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Super Mario Wonder [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/super-mario-wonder/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/super-mario-wonder/</link>
       <pubDate>Sat, 02 Nov 2024 11:17:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/super-mario-wonder/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/super-mario-wonder/</guid>
       <description>&lt;p&gt;&amp;ldquo;Super Mario Bros. Wonder&amp;rdquo; ist das neueste Abenteuer von Nintendo, und es bringt frischen Wind in die legendäre Mario-Reihe! Mit einem brandneuen Setting, aufregenden Power-Ups und innovativen Gameplay-Mechaniken verspricht das Spiel ein einmaliges Erlebnis für alteingesessene Fans und Neulinge. In diesem Beitrag werfen wir einen genauen Blick auf die zahlreichen Neuerungen, die Mario, Luigi, Prinzessin Peach und Co. in diesem farbenfrohen und wilden Abenteuer erwarten.&lt;/p&gt;
 &lt;h3 id=&#34;ein-neues-königreich-willkommen-im-blumen-königreich&#34;&gt;Ein neues Königreich: Willkommen im Blumen-Königreich!&lt;/h3&gt;
 &lt;p&gt;In &amp;ldquo;Super Mario Bros. Wonder&amp;rdquo; verschlägt es Mario und seine Freunde ins Blumen-Königreich, ein malerisches Land voller Geheimnisse und Überraschungen. Doch auch hier bleibt es nicht lange friedlich: Bowser erscheint und vereint sich kurzerhand mit einer riesigen Festung, um Chaos zu stiften. Die Weltkarte bietet die Freiheit, verschiedene Levels zu erkunden, und die neuen Gebiete sind vollgepackt mit Rätseln, versteckten Passagen und interaktiven Elementen, die für frischen Spielspaß sorgen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bully: Scholarship Edition - Rockstar Games’ kultiges Schulabenteuer [PC]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/bully-bully-scholarship-edition/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/bully-bully-scholarship-edition/</link>
       <pubDate>Fri, 01 Nov 2024 11:17:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/bully-bully-scholarship-edition/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/bully-bully-scholarship-edition/</guid>
       <description>&lt;p&gt;Bully: Scholarship Edition ist ein einzigartiges Action-Adventure von Rockstar Games, den Schöpfern der Grand Theft Auto-Serie. Ursprünglich 2006 unter dem Namen Bully für die PlayStation 2 erschienen, kam 2008 die erweiterte Scholarship Edition für Xbox 360, Nintendo Wii und PC auf den Markt. Diese Version bietet verbesserte Grafik, neue Missionen, zusätzliche Minispiele und weitere Features, die das Spiel noch umfangreicher machen.&lt;/p&gt;
 &lt;h3 id=&#34;die-geschichte-willkommen-an-der-bullworth-academy&#34;&gt;Die Geschichte: Willkommen an der Bullworth Academy&lt;/h3&gt;
 &lt;p&gt;Im Spiel übernimmt der Spieler die Rolle von Jimmy Hopkins, einem rebellischen 15-jährigen Schüler, der an die berüchtigte Bullworth Academy geschickt wird. Bullworth ist ein Internat, das von strengen Lehrern, Cliquen und mobbenden Mitschülern beherrscht wird. Jimmy hat es sich zum Ziel gesetzt, das Chaos an der Schule in den Griff zu bekommen und sich in der strengen, aber dennoch skurrilen Welt der Akademie zu behaupten.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Steamdeck - Hybride Spielekonsole, PC und mehr</title>
-      <link>http://localhost:1313/posts/steamdeck/2024-10-30-steamdeck/</link>
+      <link>http://192.168.2.177:1313/posts/steamdeck/2024-10-30-steamdeck/</link>
       <pubDate>Wed, 30 Oct 2024 19:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/steamdeck/2024-10-30-steamdeck/</guid>
+      <guid>http://192.168.2.177:1313/posts/steamdeck/2024-10-30-steamdeck/</guid>
       <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;
 &lt;p&gt;In der Welt der Gaming-Konsolen hat das Steam Deck von Valve für viel Aufsehen gesorgt. Als leistungsstarker Handheld-PC kombiniert es die Flexibilität eines Mobilgeräts mit der Leistungsfähigkeit eines vollwertigen Gaming-PCs. In diesem Blogbeitrag werfen wir einen Blick auf das Steam Deck und zeigen, warum es als hervorragende Hybrid-Konsole gilt, die sich besonders gut für das Spielen von aktuellen Titeln und das Emulieren klassischer Spiele eignet – vor allem in Kombination mit der Software RetroDeck.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Hat in Time [PC]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/a-hat-in-time/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/a-hat-in-time/</link>
       <pubDate>Thu, 12 Sep 2024 11:17:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/a-hat-in-time/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/a-hat-in-time/</guid>
       <description>&lt;h3 id=&#34;a-hat-in-time-ein-liebenswerter-plattform-abenteuer&#34;&gt;A Hat in Time: Ein liebenswerter Plattform-Abenteuer&lt;/h3&gt;
 &lt;p&gt;In der Welt der Plattformspiele gibt es viele Klassiker, aber nur wenige schaffen es, den Charme und die Kreativität von „A Hat in Time“ zu übertreffen. Entwickelt von Gears for Breakfast, bietet dieses Spiel eine erfrischende Mischung aus nostalgischen Gameplay-Elementen, farbenfrohen Grafiken und einem unverwechselbaren Humor, der es zu einem echten Hit unter Indie-Games gemacht hat.&lt;/p&gt;
 &lt;h3 id=&#34;handlung-und-charaktere&#34;&gt;Handlung und Charaktere&lt;/h3&gt;
@@ -67,85 +67,85 @@
     </item>
     <item>
       <title>Tomb Raider I II III Remastered [PC]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</link>
       <pubDate>Thu, 11 Apr 2024 18:00:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/tomb-raider-1-2-3-remastered/</guid>
       <description>&lt;h3 id=&#34;tomb-raider-1-3-remastered--die-wiedergeburt-einer-legende&#34;&gt;Tomb Raider 1-3 Remastered – Die Wiedergeburt einer Legende&lt;/h3&gt;
 &lt;p&gt;Die Tomb Raider 1-3 Remastered Collection bringt die ersten drei Spiele der ikonischen Reihe zurück auf die modernen Konsolen und PC, und das in einer überarbeiteten Version, die sowohl alte Fans als auch neue Spieler anspricht. Lara Croft, die berühmteste Archäologin der Videospielgeschichte, kehrt zurück und lädt uns ein, die spannenden Abenteuer der 90er Jahre mit frischem Glanz und neuem Leben zu erleben. In diesem Blogbeitrag werfen wir einen Blick auf die Remaster der ersten drei Tomb Raider-Spiele und was sie so besonders macht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spyro Reignited Trilogy [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</link>
       <pubDate>Tue, 14 Nov 2023 16:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/spyro-reignited-trilogy/</guid>
       <description>&lt;h3 id=&#34;spyro-reignited-trilogy--ein-drache-kehrt-zurück&#34;&gt;Spyro Reignited Trilogy – Ein Drache kehrt zurück&lt;/h3&gt;
 &lt;p&gt;Die Spyro Reignited Trilogy ist ein modernes Remake der ersten drei Spiele des beliebten Drachen Spyro, die ursprünglich in den späten 90er Jahren auf der PlayStation veröffentlicht wurden. Mit einer neuen grafischen Aufbereitung, überarbeitetem Gameplay und dem Charme des Originals hat diese Trilogy die Herzen vieler Spieler erobert. In diesem Blogbeitrag werfen wir einen genaueren Blick auf die Spyro Reignited Trilogy und was sie zu einem Muss für Fans von Plattformspielen macht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doppelte Datensätze in SQL-Tabellen finden</title>
-      <link>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</link>
+      <link>http://192.168.2.177:1313/posts/tutorials/sql-doppelte-datensaetze/</link>
       <pubDate>Mon, 30 Oct 2023 08:30:15 +0100</pubDate>
-      <guid>http://localhost:1313/posts/tutorials/sql-doppelte-datensaetze/</guid>
+      <guid>http://192.168.2.177:1313/posts/tutorials/sql-doppelte-datensaetze/</guid>
       <description>&lt;p&gt;In der Datenbankverwaltung ist es wichtig, sicherzustellen, dass die Daten konsistent und eindeutig sind. Doppelte Datensätze können zu Verwirrung führen und die Integrität deiner Daten gefährden. In diesem Beitrag zeige ich dir, wie du doppelte Datensätze in einer SQL-Tabelle identifizieren kannst.&lt;/p&gt;
 &lt;h2 id=&#34;schritt-1-die-grundlegende-sql-abfrage&#34;&gt;Schritt 1: Die grundlegende SQL-Abfrage&lt;/h2&gt;
 &lt;p&gt;Um doppelte Datensätze zu finden, kannst du die &lt;code&gt;GROUP BY&lt;/code&gt;-Klausel zusammen mit der &lt;code&gt;HAVING&lt;/code&gt;-Klausel verwenden. Dies ermöglicht es dir, Gruppen von Datensätzen zu erstellen und die Anzahl der Datensätze in jeder Gruppe zu zählen. Hier ist ein allgemeines Beispiel:&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Super Lucky’s Tale [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</link>
       <pubDate>Mon, 23 Jan 2023 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/new-super-luckys-tale/</guid>
       <description>&lt;p&gt;New Super Lucky’s Tale ist ein liebevoll gestaltetes 3D-Plattformspiel, das sich durch seine farbenfrohe Grafik, sympathischen Charaktere und kinderfreundliche Atmosphäre auszeichnet. Entwickelt von Playful Studios, ist das Spiel eine erweiterte Version des Originals Super Lucky’s Tale und richtet sich an Fans von klassischen 3D-Plattformern wie Banjo-Kazooie, Crash Bandicoot und Spyro.&lt;/p&gt;
 &lt;h3 id=&#34;handlung-und-charaktere&#34;&gt;Handlung und Charaktere&lt;/h3&gt;
 &lt;p&gt;Die Geschichte dreht sich um Lucky Swiftail, einen neugierigen und abenteuerlustigen Fuchs, der sich auf eine Reise begibt, um seine Schwester und das mystische Buch der Zeitalter zu retten. In einer Welt voller Herausforderungen, Feinde und Rätsel kämpft Lucky gegen die „Kätzlingsliga“, eine Gruppe von Katzen, die das Buch und seine Macht für sich beanspruchen wollen. Durch seine Reise hinweg trifft Lucky auf eine Reihe skurriler und liebenswerter Charaktere, die ihn unterstützen oder auf die Probe stellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bud Spencer Terence Hill Slaps and Beans [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</link>
       <pubDate>Wed, 13 May 2020 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/bud-spencer-terence-hill-slaps-and-beans-nintendo-switch/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Haut den Schurken auf die Gurken! Neuzugang in dieser Woche ist ein lang­ er­sehnter Titel für die Nintendo Switch. Okay Okay, ich habe mir dieses Spiel bereits in digitaler Form gekauft und durch gespielt aber als großer Bud Spender &amp;amp; Terence Hill Fan seit… nun ja seitdem ich denken kann, musste ich auch die Collector Edition kaufen. Diese Edition wurde von Limited Run Games veröffentlicht. Bestellt hatte ich das Spiel vor ca. einem Jahr.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neues Headset – Hyper X Cloud II</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</link>
       <pubDate>Tue, 10 Mar 2020 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/neues-headset-hyper-x-clud-2/</guid>
       <description>&lt;p&gt;Es wurde Zeit für ein neues Headset. Dabei war mir wichtig, dass das Headset mit der Xbox und der PlayStation 4 kompatibel ist. Ein ziemlich cooles Feature ist, dass das Mikrofon vom Headset getrennt werden kann. Dies ist besonders praktisch, wenn man beispielsweise nur Musik hören möchte. Außerdem kommt zu dem Headset eine USB-Soundkarte die via. USB an den Computer angeschlossen wird. Ein kleiner Beutel für den Transport ist ebenfalls dabei.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neue SNES-Controller [SNES]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/neue-snes-controller/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/neue-snes-controller/</link>
       <pubDate>Fri, 03 Jan 2020 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/neue-snes-controller/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/neue-snes-controller/</guid>
       <description>&lt;p&gt;Das neue Jahr hat kaum begonnen und schon wächst die Gaming-Sammlung. Es wurde Zeit für neue Super Nintendo Controller. Meine alten Controller waren leider schon so abgenutzt, dass schnelle Interaktionen nicht mehr möglich waren. Nach etwas Suche auf Ebay bin ich dann fündig geworden und habe mir zwei neue Controller gekauft.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.2.177:1313/images/neue-snes-controller.jpg&#34; alt=&#34;ALT&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Falls Ihr euch auch neue SNES-Controller auf Ebay kaufen wollt, solltet Ihr genau darauf achten was Ihr kauft. Es sind einige nachgemachte Controller im Angebot die meiner Meinung nach nicht wirklich zu gebrauchen sind. Man erkennt diese Controller z. B. daran, dass die Aktion-Button „A, B, X, Y“ kleiner sind als beim Original.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crash Bandicoot: N. Sane Trilogy [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</link>
       <pubDate>Sat, 28 Dec 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/crash-bandicoot-n-sane-trilogy/</guid>
       <description>&lt;h3 id=&#34;crash-bandicoot-n-sane-trilogy--ein-zeitloses-abenteuer-neu-aufgelegt&#34;&gt;Crash Bandicoot: N. Sane Trilogy – Ein zeitloses Abenteuer neu aufgelegt&lt;/h3&gt;
 &lt;p&gt;Crash Bandicoot ist eine Ikone der Videospielgeschichte, die Generationen von Spielern begeistert hat. Mit der Veröffentlichung von Crash Bandicoot: N. Sane Trilogy im Jahr 2017 erlebte die Reihe ein beeindruckendes Comeback, das nicht nur alte Fans zurückbrachte, sondern auch eine neue Generation von Spielern ansprach. In diesem Blogbeitrag werfen wir einen Blick auf die N. Sane Trilogy und was sie so besonders macht.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pokémon Schwert und Schild [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</link>
       <pubDate>Fri, 15 Nov 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/pokemon-schwert-schild-nintendo-switch/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Es ist da! Heute sind die neuen Pokémon-Spiele – Schwert und Schild für die Nintendo Switch herausgekommen. Ich musste beide Spiele haben und hatte mir schon lange im Voraus die Steelbook-Edition vorbestellt.&lt;/p&gt;
 &lt;p&gt;Pokémon Schwert und Schild brachte die beliebte Pokémon-Serie auf die Nintendo Switch und ermöglichte es Spielern, die brandneue Galar-Region zu erkunden. Mit neuen Pokémon, einer dynamischen offenen Naturzone und herausfordernden Arenen bot das Spiel viele Neuerungen, die sowohl bei langjährigen Fans als auch bei neuen Spielern gut ankamen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MediEvil - Sir Dan’s Rückkehr aus der Gruft [PlayStation 4]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/medievil-ps4/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/medievil-ps4/</link>
       <pubDate>Wed, 06 Nov 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/medievil-ps4/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/medievil-ps4/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Mit MediEvil Remastered kehrte 2019 ein echter PlayStation-Klassiker in neuem Glanz zurück. Ursprünglich 1998 für die erste PlayStation veröffentlicht, bekam der Titel über zwanzig Jahre später eine Neuauflage für die PlayStation 4. Der charmant-schaurige Action-Adventure-Klassiker wurde von Grund auf neu gestaltet und verspricht nostalgische Abenteuer für alte Fans sowie eine spannende Entdeckung für neue Spieler.&lt;/p&gt;
 &lt;h3 id=&#34;die-geschichte-von-sir-daniel-fortesque&#34;&gt;Die Geschichte von Sir Daniel Fortesque&lt;/h3&gt;
@@ -153,73 +153,80 @@
     </item>
     <item>
       <title>Michael Jackson’s Moonwalker [Sega Mega Drive]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</link>
       <pubDate>Fri, 25 Oct 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/michael-jacksons-moonwalker-megadrive/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Heute mal etwas Neues für meine Sega Mega Drive Sammlung. Michael Jackson’s Moonwalker. Dieser Platformer mit Beat’em up und Shooter Elementen erschien am 25, Januar 1991 in Europa für den Sega Mega Drive. Gefunden habe ich dieses beim stöbern auf Ebay und für den Preis von 10€ kann man das Spiel schon mal mitnehmen.&lt;/p&gt;
 &lt;p&gt;Michael Jackson’s Moonwalker ist ein einzigartiges Spiel, das den King of Pop in die Welt der Videospiele bringt. Ursprünglich 1990 für das Sega Mega Drive (Genesis in den USA) veröffentlicht, wurde das Spiel zu einem Kultklassiker und brachte Michael Jacksons Tanz und Musik auf eine neue Art und Weise zu den Fans. Trotz weit verbreiteter falscher Informationen existiert jedoch keine Version dieses Spiels für die Sega Dreamcast – die ursprüngliche Veröffentlichung war nur auf älteren Sega-Systemen wie dem Sega Mega Drive und dem Sega Master System verfügbar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Super Mario Maker 2 [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</link>
       <pubDate>Thu, 27 Jun 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/super-mario-maker-2-nintendo-switch/</guid>
       <description>&lt;p&gt;Der Nachfolger des erfolgreichen Super-Mario-Maker (damals für die Wii U) nun auch für die Nintendo Switch. Endlich! Unterwegs neue Mario Level erstellen und spielen. Neben etlichen neuen Elementen und Gegnern ist nun unter anderem auch möglich, schräge Böden zu erstellen. Außerdem wurde der Online-Modus aufgebohrt und es ist nun möglich ein Level gegeneinander zu bestreiten.&lt;/p&gt;
 &lt;p&gt;Keine Frage es ist ein gutes Spiel aber Nintendo hätte noch viel mehr herausholen können. Auch der Online-Modus, in dem Ihr gegeneinander antreten, könnt ist nicht optimal. Hat einer der Mitspieler eine schlechte Internetverbindung, bleibt das gesamte Spiel hängen und Ihr könnt nicht weiter spielen. Dennoch habe ich es in meine Sammlung aufgenommen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crash Team Racing – Nitro Fueled [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</link>
       <pubDate>Fri, 21 Jun 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/crash-team-racing-nitro-fueled-nintendo-switch/</guid>
       <description>&lt;p&gt;Als großer Crash Bandicoot Fan wurde ein Traum war! Crash Team Racing als Neuauflage für die aktuelle Konsolen-Generation? Muss ich natürlich haben! Diese wirklich sehr gelungene Neuauflage bringt nicht nur den alten Spielspaß zurück, sondern hat auch neue Elemente parat. Neben neuen Fahrern gibt es auch neue Strecken, Skins, Karts, Sticker und natürlich einen Online Modus. Dieses Spiel kann ich wirklich empfehlen!&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/crash-team-racing-nitro-fueled.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.2.177:1313/images/crash-team-racing-nitro-fueled.jpg&#34; alt=&#34;alt&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>Team Sonic Racing [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</link>
       <pubDate>Tue, 21 May 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/team-sonic-racing-nintendo-switch/</guid>
       <description>&lt;p&gt;Anzocken konnte ich dieses Spiel bereits auf der Gamescom 2018. Was soll ich sagen, ich hatte zu diesem Zeitpunkt Spaß mit diesem Spiel und habe es auch relativ früh vorbestellt. Ich war ziemlich überrascht als das Spiel bereits am 17. Mai bei mir im Briefkasten lag. Das Spiel kam nämlich erst am 21. Mai heraus.&lt;/p&gt;
 &lt;p&gt;Leider hat mich das Spiel dann aber nicht lange fesseln können. Die Team-Mechanik, auf die dieses Spiel aufsetzt ist meiner Meinung nach nicht ausgereift und es kommt viel zu oft vor, dass dein Team weit hinten liegt und du auf Platz 1 fährst. Dies sorgte bei mir relativ schnell für Frust und ich habe das Spiel abgebrochen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sonic Mania Plus [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</link>
       <pubDate>Fri, 26 Apr 2019 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/sonic-mania-plus-nintendo-switch/</guid>
       <description>&lt;p&gt;Neuzugang für die Nintendo Switch – Sonic Mania Plus. Dieses Spiel habe ich mir nicht direkt zum Release gekauft, da es zu diesem Zeitpunkt nur als Download-Titel erworben werden konnte. Ein Jahr nach dem Release habe ich es dann beim stöbern in einem örtlichen Kaufhaus gesehen und musste es mitnehmen. In der hier vorliegenden Box ist neben dem Hauptspiel auch das später erschienene DLC dabei. Außerdem liegt ein 32 seitiges Artbook dabei.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yooka-LayLee [Nintendo Switch]</title>
-      <link>http://localhost:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</link>
+      <link>http://192.168.2.177:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</link>
       <pubDate>Sat, 22 Dec 2018 08:45:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</guid>
+      <guid>http://192.168.2.177:1313/posts/gaming/gaming-collection/yooka-laylee-nintendo-switch/</guid>
       <description>&lt;p&gt;Weihnachten steht vor der Tür und das Wetter lädt zum gemütlichen zocken ein. Als kleines Weihnachtsgeschenk an mich selbst habe ich mir Yooka-LayLee für die Nintendo Switch in der Retail-Version von Limited Run gekauft. Dieser 3D Platformer vom Publisher Playtonic erinnert an den guten alten Klassiker Banjoo Kazooie!&lt;/p&gt;
 &lt;h2 id=&#34;der-spirituelle-nachfolger-der-banjo-kazooie-reihe&#34;&gt;Der spirituelle Nachfolger der „Banjo Kazooie“-Reihe&lt;/h2&gt;
 &lt;p&gt;Yooka-LayLee wurde von einem ehemaligen Team damaliger Rare Mitarbeiter, heute unter dem Namen Playtonic entwickelt und soll der spirituelle Nachfolger der damals erschienenen Banjo Kazooie-Reihe sein. Als bekannt wurde, dass dieses Spiel entwickelt wurde, spaltete es die Meinung der Gaming-Community. Man war sich nicht sicher, ob es möglich ist, die Atmosphäre der alten Spiele einzufangen und in ein neues Spiel zu packen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Datenschutzerklärung</title>
-      <link>http://localhost:1313/datenschutz/</link>
+      <link>http://192.168.2.177:1313/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/datenschutz/</guid>
+      <guid>http://192.168.2.177:1313/datenschutz/</guid>
       <description>datenschutz</description>
     </item>
     <item>
-      <title>Social Media</title>
-      <link>http://localhost:1313/social-media/</link>
+      <title>Meine Projekte</title>
+      <link>http://192.168.2.177:1313/projekte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/social-media/</guid>
+      <guid>http://192.168.2.177:1313/projekte/</guid>
+      <description>projekte</description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>http://192.168.2.177:1313/social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.2.177:1313/social-media/</guid>
       <description>soccial-media</description>
     </item>
     <item>
       <title>Über mich</title>
-      <link>http://localhost:1313/about-me/</link>
+      <link>http://192.168.2.177:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about-me/</guid>
+      <guid>http://192.168.2.177:1313/about-me/</guid>
       <description>about-me</description>
     </item>
   </channel>

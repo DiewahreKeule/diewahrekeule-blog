@@ -7,4 +7,3 @@ categories: ["Umstieg-Linux"]
 cover:
   image: "/header-images/linux.png"
 ---
-

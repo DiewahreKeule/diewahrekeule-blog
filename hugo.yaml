@@ -21,11 +21,15 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30    
+      weight: 30  
+    - identifier: projekte
+      name: "Meine Projekte"    
+      url: /projekte/
+      weight: 40    
     - identifier: about-me
       name: "Über mich"    
       url: /about-me/
-      weight: 40
+      weight: 50
     #- identifier: datenschutz
     #  name: "Datenschutz"
     #  url: /datenschutz/
@@ -51,6 +55,8 @@ params:
       url: "https://mastodon.gamedev.place/@DiewahreKeule"
     - name: twitch
       url: "https://www.twitch.tv/diewahrekeule"
+    - name: github
+      url: "https://github.com/DiewahreKeule"
 
 # Search
 outputs:

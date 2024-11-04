@@ -34,6 +34,7 @@
     background: #C22E30;
     color: white;
 }
+
 /* DiewahreKeule - Button prev and next color override END */
 
 .social-icons a {
@@ -45,14 +46,17 @@
     height: 26px;
     width: 26px;
     /* DiewahreKeule - 31.10.2024 - Hover Effekt */
-    transition: transform 0.3s ease; /* Weicher Übergang */
+    transition: transform 0.3s ease;
+    /* Weicher Übergang */
 }
 
 /* DiewahreKeule - 31.10.2024 - Hover effect START */
 .social-icons a svg:hover {
     color: #C22E30;
-    transform: scale(1.4); /* scale Object */
+    transform: scale(1.4);
+    /* scale Object */
 }
+
 /* DiewahreKeule - 31.10.2024 - Hover effect END */
 
 code {
@@ -81,3 +85,74 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* Custom CSS Start */
+.badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    /*background-color: #53A4E0;*/
+    background-color: #C22E30;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #333;
+    /* font-family: sans-serif; */
+    font-size: 0.7rem;
+    /* 0.9rem */
+    float: right;
+}
+
+.badge-icon {
+    font-size: 1.2rem;
+    margin-right: 0.5rem;
+    color: #007bff;
+    /* color: #C22E30; */
+}
+
+.badge-label {
+    font-weight: bold;
+    color: white;
+}
+
+.project-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 0px !important;    
+}
+
+.project-header {
+    /* display: block; */
+    margin-top: 0px;
+    flex: 1;
+}
+
+.project-header-text {
+    margin: 0px !important;
+}
+
+.project-content-box {
+    margin-bottom: 0px !important;    
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+}
+
+.project-img {
+    /* height: 50% !important;
+    width: 70% !important; */
+    max-width: 300px;
+    /* height: auto; */
+    display: flex;    
+}
+
+.project-content {    
+    /* flex-direction: row !important; */
+    /* display: flex !important; */
+    flex: 1 !important;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* Custom End */

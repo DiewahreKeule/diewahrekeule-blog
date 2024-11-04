@@ -1,0 +1,29 @@
+<article class="post-entry project-box">
+  <!-- HIER header -->
+  <header class="entry-header project-header">
+    <h2 class="entry-hint-parent project-header-text">
+        {{ .Get "name" }}     
+        {{ if .Get "project-type" }}                 
+        <div class="badge">                                 
+          <div class="badge-label">   
+            {{ .Get "project-type" }}                    
+          </div>                    
+        </div>
+        {{ end }}
+    </h2>        
+  </header>
+
+  <div class="project-content-box">
+    <figure class="entry-cover">
+      <img class="project-img"   
+        loading="lazy"
+        src="{{ .Get "image" }}"
+        alt="{{ .Get "name" }}"
+      />            
+    </figure>   
+    <div class="entry-content project-content">          
+      <p class="project-content">{{ .Inner | markdownify }}</p>     
+    </div>
+    
+  </div>   
+</article>

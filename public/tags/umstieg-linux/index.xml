@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Umstieg-Linux on DiewahreKeule</title>
-    <link>http://localhost:1313/tags/umstieg-linux/</link>
+    <link>http://192.168.2.177:1313/tags/umstieg-linux/</link>
     <description>Recent content in Umstieg-Linux on DiewahreKeule</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 15:15:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/umstieg-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.2.177:1313/tags/umstieg-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mein Umstieg auf Linux-Mint</title>
-      <link>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</link>
+      <link>http://192.168.2.177:1313/posts/umstieg-linux/01-umstieg-linux/</link>
       <pubDate>Sun, 03 Nov 2024 15:15:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/umstieg-linux/01-umstieg-linux/</guid>
+      <guid>http://192.168.2.177:1313/posts/umstieg-linux/01-umstieg-linux/</guid>
       <description></description>
     </item>
   </channel>
